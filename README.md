@@ -1,1 +1,1 @@
-# Akriti-Gupta-Resume
+Aspiring Data Analyst with a strong foundation in statistical analysis, data visualization, and database management. Skilled in leveraging tools like Power BI, Tableau, and MySQL to derive actionable insights and drive data-driven decision-making. Passionate about solving complex problems and contributing to organizational success in a dynamic, growth-oriented environment.
